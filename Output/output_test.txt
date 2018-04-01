@@ -1,0 +1,175 @@
+Translation with 0 strategy
+il avait beau avoir détaillé cette blessure très attentivement sur la télécopie, la brûlure était beaucoup plus impressionnante dans la réalité.
+he had beautiful to have detailed this injury very closely sure the fax, the burn was a lot more impressive in the reality.
+
+
+Translation after swapping parts of speech
+il avait beau avoir détaillé cette blessure très attentivement sur la télécopie, la brûlure était beaucoup plus impressionnante dans la réalité.
+had he beautiful to have detailed this injury very closely sure the fax, the burn was a lot more impressive in the reality.
+
+
+Translation after swapping verb with noun
+il avait beau avoir détaillé cette blessure très attentivement sur la télécopie, la brûlure était beaucoup plus impressionnante dans la réalité.
+had he beautiful to have detailed this injury very closely sure the fax, the was burn a lot more impressive in the reality.
+
+
+Translation after applying Bigram Model
+il avait beau avoir détaillé cette blessure très attentivement sur la télécopie, la brûlure était beaucoup plus impressionnante dans la réalité.
+the in burn fax injury closely reality beautiful, more the was detailed sure he very this the a lot had impressive to have.
+
+
+Translation after applying Trigram Model
+il avait beau avoir détaillé cette blessure très attentivement sur la télécopie, la brûlure était beaucoup plus impressionnante dans la réalité.
+very fax this, was burn he detailed a lot had reality the in injury the beautiful. closely to have sure more impressive the
+
+
+Translation after applying Bigram and POS Tagging
+il avait beau avoir détaillé cette blessure très attentivement sur la télécopie, la brûlure était beaucoup plus impressionnante dans la réalité.
+, was more had in very to have a lot injury impressive sure beautiful the the the reality he detailed closely this burn fax.
+
+
+Translation after POS rearrangement
+il avait beau avoir détaillé cette blessure très attentivement sur la télécopie, la brûlure était beaucoup plus impressionnante dans la réalité.
+had beautiful this injury he detailed sure the fax very the was burn closely a lot impressive in the reality. to have, more
+
+
+Translation with 0 strategy
+le bourrelet de chair grillée était parfaitement dessiné et le symbole se détachait avec une absolue netteté.
+the bead of flesh grilled was perfectly designed and the symbol himself detached with a absolute clearness.
+
+
+Translation after swapping parts of speech
+le bourrelet de chair grillée était parfaitement dessiné et le symbole se détachait avec une absolue netteté.
+the bead of flesh grilled was perfectly designed and the symbol detached himself with a absolute clearness.
+
+
+Translation after swapping verb with noun
+le bourrelet de chair grillée était parfaitement dessiné et le symbole se détachait avec une absolue netteté.
+the bead of grilled was flesh perfectly designed and the detached symbol himself with a absolute clearness.
+
+
+Translation after applying Bigram Model
+le bourrelet de chair grillée était parfaitement dessiné et le symbole se détachait avec une absolue netteté.
+the with detached himself of and flesh grilled clearness perfectly bead absolute a designed was the symbol.
+
+
+Translation after applying Trigram Model
+le bourrelet de chair grillée était parfaitement dessiné et le symbole se détachait avec une absolue netteté.
+. flesh was with bead the a clearness perfectly detached grilled symbol absolute and the himself of designed
+
+
+Translation after applying Bigram and POS Tagging
+le bourrelet de chair grillée était parfaitement dessiné et le symbole se détachait avec une absolue netteté.
+the the absolute of a perfectly with symbol grilled was flesh clearness detached bead and designed himself.
+
+
+Translation after POS rearrangement
+le bourrelet de chair grillée était parfaitement dessiné et le symbole se détachait avec une absolue netteté.
+bead of the was flesh and the detached symbol himself with a absolute clearness. grilled perfectly designed
+
+
+Translation with 0 strategy
+langdon se demanda si le frisson qui le parcourait était dû à l'air glacial ou à sa stupéfaction devant le spectacle qu'il venait de découvrir.
+langdon himself asked if the thrill who the went about was of at the air glacial or at her stupefaction in front of the show it had of discover.
+
+
+Translation after swapping parts of speech
+langdon se demanda si le frisson qui le parcourait était dû à l'air glacial ou à sa stupéfaction devant le spectacle qu'il venait de découvrir.
+langdon asked himself if the thrill who the went about was of at the air glacial or at her stupefaction in front of the show had it of discover.
+
+
+Translation after swapping verb with noun
+langdon se demanda si le frisson qui le parcourait était dû à l'air glacial ou à sa stupéfaction devant le spectacle qu'il venait de découvrir.
+asked langdon himself if the thrill who the was went about of at the air glacial or at her stupefaction in front of the had show it of discover.
+
+
+Translation after applying Bigram Model
+langdon se demanda si le frisson qui le parcourait était dû à l'air glacial ou à sa stupéfaction devant le spectacle qu'il venait de découvrir.
+show went about thrill the or had who asked at glacial of the air of langdon discover if stupefaction her was the in front of himself the at it.
+
+
+Translation after applying Trigram Model
+langdon se demanda si le frisson qui le parcourait était dû à l'air glacial ou à sa stupéfaction devant le spectacle qu'il venait de découvrir.
+went about the was thrill discover her the stupefaction the air glacial of in front of at of. who it himself at asked had langdon if show the or
+
+
+Translation after applying Bigram and POS Tagging
+langdon se demanda si le frisson qui le parcourait était dû à l'air glacial ou à sa stupéfaction devant le spectacle qu'il venait de découvrir.
+of langdon the who glacial show himself stupefaction or discover it was at thrill asked the at went about the if the air had of in front of her.
+
+
+Translation after POS rearrangement
+langdon se demanda si le frisson qui le parcourait était dû à l'air glacial ou à sa stupéfaction devant le spectacle qu'il venait de découvrir.
+if the thrill himself the was went about of at the air glacial or at asked stupefaction in front of the had show it of discover. langdon who her
+
+
+Translation with 0 strategy
+son coeur cognait à grands coups tandis qu'il faisait le tour du cadavre pour lire le même mot, répété identiquement à l'endroit et à l'envers comme pour proclamer le génie de la symétrie.
+his heart knocking at great shots while it was the tower of corpse for read the even word, say again identically at the place and at upside as for proclaim the genius of the symmetry.
+
+
+Translation after swapping parts of speech
+son coeur cognait à grands coups tandis qu'il faisait le tour du cadavre pour lire le même mot, répété identiquement à l'endroit et à l'envers comme pour proclamer le génie de la symétrie.
+his heart knocking at great shots while was it the tower of corpse for read the even word, say again identically at the place and at upside as for proclaim the genius of the symmetry.
+
+
+Translation after swapping verb with noun
+son coeur cognait à grands coups tandis qu'il faisait le tour du cadavre pour lire le même mot, répété identiquement à l'endroit et à l'envers comme pour proclamer le génie de la symétrie.
+his heart knocking at great shots while was it the tower of corpse for read the even word, say again identically at the place and at upside as for proclaim the genius of the symmetry.
+
+
+Translation after applying Bigram Model
+son coeur cognait à grands coups tandis qu'il faisait le tour du cadavre pour lire le même mot, répété identiquement à l'endroit et à l'envers comme pour proclamer le génie de la symétrie.
+identically tower say again genius the for at word of heart symmetry knocking shots great for and corpse at his as read was the place upside at the proclaim the, while the even it of.
+
+
+Translation after applying Trigram Model
+son coeur cognait à grands coups tandis qu'il faisait le tour du cadavre pour lire le même mot, répété identiquement à l'endroit et à l'envers comme pour proclamer le génie de la symétrie.
+the place upside of read even tower heart was great while proclaim at symmetry the say again genius the as it and, the his word at the for for corpse at identically knocking of. shots
+
+
+Translation after applying Bigram and POS Tagging
+son coeur cognait à grands coups tandis qu'il faisait le tour du cadavre pour lire le même mot, répété identiquement à l'endroit et à l'envers comme pour proclamer le génie de la symétrie.
+it upside word the was the tower for knocking, great even the place corpse at identically genius of say again the of his as symmetry for heart at read while the and shots proclaim at.
+
+
+Translation after POS rearrangement
+son coeur cognait à grands coups tandis qu'il faisait le tour du cadavre pour lire le même mot, répété identiquement à l'endroit et à l'envers comme pour proclamer le génie de la symétrie.
+heart knocking at great while was the tower of corpse for it the his word even say again identically at the place and at upside as for proclaim the genius of the symmetry. shots read,
+
+
+Translation with 0 strategy
+ce symbole paraissait encore moins vraisemblable maintenant qu'il l'avait sous les yeux.
+this symbol appeared again less likely now it had under the eyes.
+
+
+Translation after swapping parts of speech
+ce symbole paraissait encore moins vraisemblable maintenant qu'il l'avait sous les yeux.
+this symbol appeared again less likely now had it under the eyes.
+
+
+Translation after swapping verb with noun
+ce symbole paraissait encore moins vraisemblable maintenant qu'il l'avait sous les yeux.
+this appeared symbol again less likely now had it under the eyes.
+
+
+Translation after applying Bigram Model
+ce symbole paraissait encore moins vraisemblable maintenant qu'il l'avait sous les yeux.
+appeared eyes again the under symbol less now it had this likely.
+
+
+Translation after applying Trigram Model
+ce symbole paraissait encore moins vraisemblable maintenant qu'il l'avait sous les yeux.
+symbol appeared. it now under eyes this likely the less had again
+
+
+Translation after applying Bigram and POS Tagging
+ce symbole paraissait encore moins vraisemblable maintenant qu'il l'avait sous les yeux.
+had eyes this under likely less it the now again symbol appeared.
+
+
+Translation after POS rearrangement
+ce symbole paraissait encore moins vraisemblable maintenant qu'il l'avait sous les yeux.
+symbol this appeared again had it under the likely. less now eyes
+
+

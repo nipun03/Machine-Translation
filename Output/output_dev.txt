@@ -1,0 +1,350 @@
+Translation with 0 strategy
+pendant un instant, langdon crut déceler le tressaillement d'une émotion sur le visage impénétrable de kohler.
+while a moment, langdon thought detect the thrill a emotion sure the face impenetrable of kohler.
+
+
+Translation after swapping parts of speech
+pendant un instant, langdon crut déceler le tressaillement d'une émotion sur le visage impénétrable de kohler.
+while a moment, langdon thought detect the thrill a emotion sure the face impenetrable of kohler.
+
+
+Translation after swapping verb with noun
+pendant un instant, langdon crut déceler le tressaillement d'une émotion sur le visage impénétrable de kohler.
+while a moment, langdon thought detect the thrill a emotion sure the face impenetrable of kohler.
+
+
+Translation after applying Bigram Model
+pendant un instant, langdon crut déceler le tressaillement d'une émotion sur le visage impénétrable de kohler.
+the moment the langdon a face emotion impenetrable thought sure detect thrill while, of a kohler.
+
+
+Translation after applying Trigram Model
+pendant un instant, langdon crut déceler le tressaillement d'une émotion sur le visage impénétrable de kohler.
+thrill langdon moment a thought impenetrable a sure. of face the, the detect kohler while emotion
+
+
+Translation after applying Bigram and POS Tagging
+pendant un instant, langdon crut déceler le tressaillement d'une émotion sur le visage impénétrable de kohler.
+kohler a, langdon a while thought impenetrable of face sure emotion moment the the thrill detect.
+
+
+Translation after POS rearrangement
+pendant un instant, langdon crut déceler le tressaillement d'une émotion sur le visage impénétrable de kohler.
+moment while a thought the thrill a emotion sure the face impenetrable of kohler., langdon detect
+
+
+Translation with 0 strategy
+mais elle se dissipa aussi vite qu'elle était venue.
+but she himself dissipated also quick what was arrival.
+
+
+Translation after swapping parts of speech
+mais elle se dissipa aussi vite qu'elle était venue.
+but she dissipated himself also what was quick arrival.
+
+
+Translation after swapping verb with noun
+mais elle se dissipa aussi vite qu'elle était venue.
+but she dissipated himself also what was quick arrival.
+
+
+Translation after applying Bigram Model
+mais elle se dissipa aussi vite qu'elle était venue.
+what dissipated but also quick arrival himself she was.
+
+
+Translation after applying Trigram Model
+mais elle se dissipa aussi vite qu'elle était venue.
+also she quick. but was dissipated himself what arrival
+
+
+Translation after applying Bigram and POS Tagging
+mais elle se dissipa aussi vite qu'elle était venue.
+dissipated himself was also quick what arrival she but.
+
+
+Translation after POS rearrangement
+mais elle se dissipa aussi vite qu'elle était venue.
+dissipated she himself was quick arrival. but also what
+
+
+Translation with 0 strategy
+kohler plongea sa main dans sa poche et en retira un trousseau de clés.
+kohler plunged her hand in her poached and in retired a trousseau of Keywords.
+
+
+Translation after swapping parts of speech
+kohler plongea sa main dans sa poche et en retira un trousseau de clés.
+kohler plunged her hand in her poached and in retired a trousseau of Keywords.
+
+
+Translation after swapping verb with noun
+kohler plongea sa main dans sa poche et en retira un trousseau de clés.
+plunged kohler her hand in her poached and in retired a trousseau of Keywords.
+
+
+Translation after applying Bigram Model
+kohler plongea sa main dans sa poche et en retira un trousseau de clés.
+retired Keywords poached plunged trousseau hand in kohler a and her in of her.
+
+
+Translation after applying Trigram Model
+kohler plongea sa main dans sa poche et en retira un trousseau de clés.
+hand a in her of retired trousseau and Keywords poached in kohler her plunged.
+
+
+Translation after applying Bigram and POS Tagging
+kohler plongea sa main dans sa poche et en retira un trousseau de clés.
+hand her and of her Keywords retired in kohler poached in plunged trousseau a.
+
+
+Translation after POS rearrangement
+kohler plongea sa main dans sa poche et en retira un trousseau de clés.
+kohler hand in plunged poached in and a trousseau of her. her retired Keywords
+
+
+Translation with 0 strategy
+la porte à peine ouverte, une bise glaciale s'échappa de l'appartement de vetra en sifflant.
+the door at trouble opened, a kiss icy escaped of apartment of vetra in whistling.
+
+
+Translation after swapping parts of speech
+la porte à peine ouverte, une bise glaciale s'échappa de l'appartement de vetra en sifflant.
+the door at trouble opened, a kiss icy escaped of apartment of vetra in whistling.
+
+
+Translation after swapping verb with noun
+la porte à peine ouverte, une bise glaciale s'échappa de l'appartement de vetra en sifflant.
+the door at opened trouble, a kiss escaped icy of apartment of vetra in whistling.
+
+
+Translation after applying Bigram Model
+la porte à peine ouverte, une bise glaciale s'échappa de l'appartement de vetra en sifflant.
+of at of door whistling in opened icy trouble a escaped apartment, kiss the vetra.
+
+
+Translation after applying Trigram Model
+la porte à peine ouverte, une bise glaciale s'échappa de l'appartement de vetra en sifflant.
+apartment., trouble opened kiss a at the of icy whistling of vetra escaped in door
+
+
+Translation after applying Bigram and POS Tagging
+la porte à peine ouverte, une bise glaciale s'échappa de l'appartement de vetra en sifflant.
+escaped whistling kiss icy opened of trouble apartment at in a the door of, vetra.
+
+
+Translation after POS rearrangement
+la porte à peine ouverte, une bise glaciale s'échappa de l'appartement de vetra en sifflant.
+door at trouble the a kiss escaped icy of apartment of vetra in whistling. opened,
+
+
+Translation with 0 strategy
+langdon recula, stupéfait.
+langdon recoiled, stunned.
+
+
+Translation after swapping parts of speech
+langdon recula, stupéfait.
+langdon recoiled, stunned.
+
+
+Translation after swapping verb with noun
+langdon recula, stupéfait.
+recoiled langdon, stunned.
+
+
+Translation after applying Bigram Model
+langdon recula, stupéfait.
+stunned, langdon recoiled.
+
+
+Translation after applying Trigram Model
+langdon recula, stupéfait.
+langdon. recoiled stunned,
+
+
+Translation after applying Bigram and POS Tagging
+langdon recula, stupéfait.
+recoiled stunned langdon,.
+
+
+Translation after POS rearrangement
+langdon recula, stupéfait.
+langdon stunned. recoiled,
+
+
+Translation with 0 strategy
+le cadavre était hideux à faire peur.
+the corpse was hideous at make fear.
+
+
+Translation after swapping parts of speech
+le cadavre était hideux à faire peur.
+the corpse was hideous at make fear.
+
+
+Translation after swapping verb with noun
+le cadavre était hideux à faire peur.
+the was corpse hideous at make fear.
+
+
+Translation after applying Bigram Model
+le cadavre était hideux à faire peur.
+the fear make at corpse was hideous.
+
+
+Translation after applying Trigram Model
+le cadavre était hideux à faire peur.
+make corpse. fear the at hideous was
+
+
+Translation after applying Bigram and POS Tagging
+le cadavre était hideux à faire peur.
+the at corpse fear was hideous make.
+
+
+Translation after POS rearrangement
+le cadavre était hideux à faire peur.
+the was at corpse fear hideous make.
+
+
+Translation with 0 strategy
+le défunt leonardo vetra était allongé sur le dos, entièrement dénudé, sa peau avait pris un ton bleu-gris.
+the dead leonardo vetra was elongate sure the back, entirely bare, her skin had taken a your blue grey.
+
+
+Translation after swapping parts of speech
+le défunt leonardo vetra était allongé sur le dos, entièrement dénudé, sa peau avait pris un ton bleu-gris.
+the dead leonardo vetra was elongate sure the back, entirely bare, her skin had taken a your blue grey.
+
+
+Translation after swapping verb with noun
+le défunt leonardo vetra était allongé sur le dos, entièrement dénudé, sa peau avait pris un ton bleu-gris.
+the dead leonardo was vetra elongate sure the back, entirely bare, her had taken skin a your blue grey.
+
+
+Translation after applying Bigram Model
+le défunt leonardo vetra était allongé sur le dos, entièrement dénudé, sa peau avait pris un ton bleu-gris.
+had blue grey vetra, the entirely sure elongate the dead taken a was leonardo your, back bare her skin.
+
+
+Translation after applying Trigram Model
+le défunt leonardo vetra était allongé sur le dos, entièrement dénudé, sa peau avait pris un ton bleu-gris.
+. back blue grey your leonardo entirely had the, dead bare a sure vetra elongate the skin taken her, was
+
+
+Translation after applying Bigram and POS Tagging
+le défunt leonardo vetra était allongé sur le dos, entièrement dénudé, sa peau avait pris un ton bleu-gris.
+blue grey vetra had her the bare taken elongate entirely skin was sure back dead a the leonardo your,,.
+
+
+Translation after POS rearrangement
+le défunt leonardo vetra était allongé sur le dos, entièrement dénudé, sa peau avait pris un ton bleu-gris.
+leonardo the was dead sure the back vetra elongate bare her had entirely taken a your blue grey.,, skin
+
+
+Translation with 0 strategy
+les vertèbres cervicales, brisées, avaient transpercé la chair à l'endroit de la fracture, apparemment provoquée par une rotation de la tête à 180 degrés.
+the vertebrae cervical, broken, had pierced the flesh at the place of the fracture, apparently caused by a rotation of the head at 180 degrees.
+
+
+Translation after swapping parts of speech
+les vertèbres cervicales, brisées, avaient transpercé la chair à l'endroit de la fracture, apparemment provoquée par une rotation de la tête à 180 degrés.
+the vertebrae cervical, broken, had pierced the flesh at the place of the fracture, apparently caused by a rotation of the head at 180 degrees.
+
+
+Translation after swapping verb with noun
+les vertèbres cervicales, brisées, avaient transpercé la chair à l'endroit de la fracture, apparemment provoquée par une rotation de la tête à 180 degrés.
+the vertebrae cervical, broken, had pierced the flesh at the place of the fracture, apparently caused by a rotation of the head at 180 degrees.
+
+
+Translation after applying Bigram Model
+les vertèbres cervicales, brisées, avaient transpercé la chair à l'endroit de la fracture, apparemment provoquée par une rotation de la tête à 180 degrés.
+had pierced at head vertebrae flesh cervical a, by the caused, fracture, the place the degrees broken 180 rotation of at of the the apparently.
+
+
+Translation after applying Trigram Model
+les vertèbres cervicales, brisées, avaient transpercé la chair à l'endroit de la fracture, apparemment provoquée par une rotation de la tête à 180 degrés.
+of flesh the place rotation the of, broken 180, at at the cervical caused fracture a pierced had head by., apparently vertebrae the the degrees
+
+
+Translation after applying Bigram and POS Tagging
+les vertèbres cervicales, brisées, avaient transpercé la chair à l'endroit de la fracture, apparemment provoquée par une rotation de la tête à 180 degrés.
+pierced fracture, head at the place a caused, had by broken flesh the cervical 180, degrees at of vertebrae the the of the rotation apparently.
+
+
+Translation after POS rearrangement
+les vertèbres cervicales, brisées, avaient transpercé la chair à l'endroit de la fracture, apparemment provoquée par une rotation de la tête à 180 degrés.
+the vertebrae cervical broken had the flesh at the place of the fracture pierced apparently caused by a rotation of the head at, degrees.,, 180
+
+
+Translation with 0 strategy
+on ne voyait pas son visage, pressé contre le sol.
+we born saw not his face, press against the ground.
+
+
+Translation after swapping parts of speech
+on ne voyait pas son visage, pressé contre le sol.
+born saw we not his face, press against the ground.
+
+
+Translation after swapping verb with noun
+on ne voyait pas son visage, pressé contre le sol.
+born saw we not his face, press against the ground.
+
+
+Translation after applying Bigram Model
+on ne voyait pas son visage, pressé contre le sol.
+his saw against born not ground face the press we,.
+
+
+Translation after applying Trigram Model
+on ne voyait pas son visage, pressé contre le sol.
+face his press we ground born the,. against saw not
+
+
+Translation after applying Bigram and POS Tagging
+on ne voyait pas son visage, pressé contre le sol.
+press against born saw ground not the face, we his.
+
+
+Translation after POS rearrangement
+on ne voyait pas son visage, pressé contre le sol.
+saw we face born press against the ground. not his,
+
+
+Translation with 0 strategy
+luttant contre une nausée de plus en plus violente, langdon observa le torse de la victime.
+wrestling against a nausea of more in more violent, langdon watched the torso of the victim.
+
+
+Translation after swapping parts of speech
+luttant contre une nausée de plus en plus violente, langdon observa le torse de la victime.
+wrestling against a nausea of more in more violent, langdon watched the torso of the victim.
+
+
+Translation after swapping verb with noun
+luttant contre une nausée de plus en plus violente, langdon observa le torse de la victime.
+wrestling against a nausea of more in more violent, langdon watched the torso of the victim.
+
+
+Translation after applying Bigram Model
+luttant contre une nausée de plus en plus violente, langdon observa le torse de la victime.
+watched the wrestling of violent nausea langdon against, victim the more more in a of torso.
+
+
+Translation after applying Trigram Model
+luttant contre une nausée de plus en plus violente, langdon observa le torse de la victime.
+watched the more langdon wrestling violent, the. victim torso of a of more against in nausea
+
+
+Translation after applying Bigram and POS Tagging
+luttant contre une nausée de plus en plus violente, langdon observa le torse de la victime.
+a the wrestling violent in langdon victim more against, more of of the torso watched nausea.
+
+
+Translation after POS rearrangement
+luttant contre une nausée de plus en plus violente, langdon observa le torse de la victime.
+against nausea of a in violent wrestling langdon watched the torso of the victim. more more,
+
+
